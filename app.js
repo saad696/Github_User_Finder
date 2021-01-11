@@ -31,6 +31,7 @@ const createUserCard = (user) => {
         </div>
         <div class="user-info">
             <h2>${user.name}</h2>
+            <h4>[${user.login}]</h4>
             <p>${user.bio}</p>
       
         <ul class="info">
