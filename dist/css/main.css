@@ -1,0 +1,116 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1440' height='560' preserveAspectRatio='none' viewBox='0 0 1440 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1015%26quot%3b)' fill='none'%3e%3crect width='1440' height='560' x='0' y='0' fill='%230e2a47'%3e%3c/rect%3e%3cpath d='M171.52188038454844 231.2027814595276L157.8717416142186 134.07699734677993 74.39609627180074 244.8529202298575z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M1347.406%2c591.905C1384.897%2c590.838%2c1419.705%2c571.979%2c1438.324%2c539.421C1456.812%2c507.092%2c1453.807%2c468.433%2c1437.025%2c435.187C1418.12%2c397.735%2c1389.211%2c362.836%2c1347.406%2c359.309C1299.838%2c355.296%2c1249.822%2c375.489%2c1227.114%2c417.479C1205.201%2c457.998%2c1220.905%2c506.943%2c1247.057%2c544.865C1269.536%2c577.46%2c1307.827%2c593.032%2c1347.406%2c591.905' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M447.08481618583505 229.69583651758597L527.5308252766692 255.83432935452942 473.2233090227785 149.24982742675175z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M141.10140708519208 116.3543935318181L141.1014070851921 261.9431021400327 286.69011569340665 116.35439353181806z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M152.92634545496384 218.6322987333906L208.9490673278488 65.16636230183715 67.89469624072001 87.50717992180152z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M1128.5034393519693 399.3834911576164L1018.336931540406 316.3670730105318 935.3205133933214 426.533580822095 1045.4870212048847 509.5499989691796z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M1106.222972910391 191.40403312366303L1053.7494200970743 258.56711795850947 1120.9125049319207 311.0406707718262 1173.3860577452374 243.8775859369798z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M295.0175990484058 135.8991210988084L331.8782564896146 178.30245688857093 377.052931453654 101.80980283187657z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M1139.5473585449242 134.10066460281206L1052.4037253100444-0.08876303508762362 918.2142976721447 87.05487019979226 1005.3579309070245 221.24429783769193z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M1408.10834449102 574.0578827233654L1383.1720519398432 474.0438760060331 1283.1580452225107 498.98016855721 1308.0943377736876 598.9941752745424z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M567.888%2c304.979C607.83%2c302.381%2c635.894%2c269.062%2c654.078%2c233.405C670.375%2c201.449%2c672.894%2c164.43%2c655.59%2c133.008C637.646%2c100.425%2c605.045%2c78.618%2c567.888%2c76.896C527.438%2c75.021%2c486.675%2c90.046%2c464.873%2c124.168C441.409%2c160.89%2c438.241%2c208.176%2c459.813%2c246.04C481.584%2c284.253%2c524.001%2c307.833%2c567.888%2c304.979' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1015'%3e%3crect width='1440' height='560' fill='white'%3e%3c/rect%3e%3c/mask%3e%3cstyle%3e %40keyframes float1 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-10px%2c 0)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float1 %7b animation: float1 5s infinite%3b %7d %40keyframes float2 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-5px%2c -5px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float2 %7b animation: float2 4s infinite%3b %7d %40keyframes float3 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(0%2c -10px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float3 %7b animation: float3 6s infinite%3b %7d %3c/style%3e%3c/defs%3e%3c/svg%3e");
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+  min-height: 100vh;
+}
+
+input {
+  background: #43cea2;
+  /* fallback for old browsers */
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #185a9d, #43cea2);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  border-radius: 10px;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.5), 0 15px 40px rgba(0, 0, 0, 0.5);
+  border: none;
+  color: #fff;
+  font-family: inherit;
+  font-size: 1rem;
+  padding: 1rem;
+  margin-bottom: 2rem;
+}
+
+input::placeholder {
+  color: #eee;
+}
+
+input:focus {
+  outline: none;
+}
+
+.card {
+  background: #43cea2;
+  /* fallback for old browsers */
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #185a9d, #43cea2);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  border-radius: 10px;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.5), 0 15px 40px rgba(0, 0, 0, 0.5);
+  display: flex;
+  padding: 3rem;
+  max-width: 800px;
+}
+
+.card .avatar {
+  border-radius: 10px;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.5), 0 15px 40px rgba(0, 0, 0, 0.5);
+  border-radius: 50%;
+  height: 150px;
+  width: 150px;
+  position: relative;
+}
+
+.card .user-info {
+  color: #eee;
+  margin-left: 2rem;
+}
+
+.card .user-info h2 {
+  margin-top: 0;
+}
+
+.card .user-info ul {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  padding: 0;
+  max-width: 400px;
+}
+
+.card .user-info ul li {
+  margin-top: 1.5rem;
+  display: flex;
+  align-items: center;
+  background: #2a2a72;
+  padding: 0.5rem;
+  border-radius: 10px;
+}
+
+.card .user-info ul li strong {
+  font-size: 0.9rem;
+  margin-left: 0.5rem;
+}
+
+.card #repos {
+  margin-top: 2rem;
+}
+
+.card #repos h4 {
+  margin-bottom: 1rem;
+}
+
+.card #repos .repo {
+  background-color: #2a2a72;
+  border-radius: 5px;
+  display: inline-block;
+  color: #fff;
+  font-size: 0.7rem;
+  padding: 0.25rem 0.5rem;
+  margin-right: 0.5rem;
+  margin-bottom: 0.5rem;
+  text-decoration: none;
+}
+/*# sourceMappingURL=main.css.map */
